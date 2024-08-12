@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-Created by Shradha Khapra(Apna College)
+Created by Shradha Khapra(Apna College).
